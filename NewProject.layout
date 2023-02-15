@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="chess.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="637" topLine="102" />
+		</Cursor>
+		<Folding>
+			<Collapse line="511" />
+			<Collapse line="870" />
+		</Folding>
+	</File>
+	<File name="gomoku.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="chess_two.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15308" topLine="371" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="27" />
+			<Collapse line="46" />
+			<Collapse line="448" />
+			<Collapse line="451" />
+			<Collapse line="468" />
+			<Collapse line="479" />
+			<Collapse line="481" />
+			<Collapse line="500" />
+			<Collapse line="691" />
+			<Collapse line="723" />
+			<Collapse line="866" />
+			<Collapse line="876" />
+		</Folding>
+	</File>
+	<File name="gomoku.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3554" topLine="72" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="63" />
+		</Folding>
+	</File>
+	<File name="menu.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1271" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="chess.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="chess_two.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="267" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="274" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4518" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

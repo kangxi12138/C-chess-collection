@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1654478014 source:d:\ccode\newproject\main.cpp
+	<stdio.h>
+	<windows.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	"chess.h"
+	"gomoku.h"
+	"chess_two.h"
+	"menu.h"
+
+1653886317 source:d:\ccode\newproject\chess.cpp
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"chess.h"
+	"menu.h"
+
+1653886742 source:d:\ccode\newproject\chess_two.cpp
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"chess_two.h"
+	"menu.h"
+
+1653822903 source:d:\ccode\newproject\gomoku.cpp
+	<stdio.h>
+	<graphics.h>
+	"gomoku.h"
+
+1652619848 source:d:\ccode\newproject\flip_chess.cpp
+
+1652920429 source:d:\ccode\newproject\black_white_chess.cpp
+
+1653101126 d:\ccode\newproject\chessgame.h
+
+1653638005 d:\ccode\newproject\gomoku.h
+
+1653886199 d:\ccode\newproject\chess.h
+
+1653803479 d:\ccode\newproject\chess_two.h
+
+1653446886 d:\ccode\newproject\menu.h
+
+1653620265 source:d:\ccode\newproject\menu.cpp
+	<stdio.h>
+	<graphics.h>
+
+1653886317 source:d:\codelibrary\ccode\newproject\chess.cpp
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"chess.h"
+	"menu.h"
+
+1653886199 d:\codelibrary\ccode\newproject\chess.h
+
+1653446886 d:\codelibrary\ccode\newproject\menu.h
+
+1653886742 source:d:\codelibrary\ccode\newproject\chess_two.cpp
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"chess_two.h"
+	"menu.h"
+
+1653803479 d:\codelibrary\ccode\newproject\chess_two.h
+
+1653822903 source:d:\codelibrary\ccode\newproject\gomoku.cpp
+	<stdio.h>
+	<graphics.h>
+	"gomoku.h"
+
+1653638005 d:\codelibrary\ccode\newproject\gomoku.h
+
+1653620265 source:d:\codelibrary\ccode\newproject\menu.cpp
+	<stdio.h>
+	<graphics.h>
+
